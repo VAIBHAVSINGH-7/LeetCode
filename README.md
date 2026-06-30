@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
