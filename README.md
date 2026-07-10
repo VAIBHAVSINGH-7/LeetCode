@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0268-missing-number) |
@@ -97,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
