@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/VAIBHAVSINGH-7/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
