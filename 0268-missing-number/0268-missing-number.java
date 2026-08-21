@@ -1,28 +1,12 @@
 class Solution {
 
     public int missingNumber(int[] nums) {
-
-        for(int i = 0; i <= nums.length; i++) {
-
-            // Har number ke liye reset karo
-            boolean found = false;
-
-            for(int j = 0; j < nums.length; j++) {
-
-                if(nums[j] == i) {
-
-                    found = true;
-                    break;
-                }
-            }
-
-            // Number nahi mila
-            if(found == false) {
-
-                return i;
-            }
+        int sum =0;
+        int n = nums.length;
+        int expected = n *(n+1)/2;
+        for(int i=0;i<n;i++){
+            sum += nums[i];
         }
-
-        return -1;
+        return expected - sum;
     }
 }
